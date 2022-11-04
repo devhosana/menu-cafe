@@ -50,7 +50,8 @@
 }
 
 .item__description {
-  margin-top: 0.5rem;
+  margin-top: 0.7rem;
   font-size: 1.5rem;
   color: #888;
+  word-break: break-word;
 }

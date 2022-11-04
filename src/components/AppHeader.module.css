@@ -1,6 +1,7 @@
 .logo__container {
   display: flex;
   justify-content: center;
+  /* position: fixed; */
 }
 
 .logo__img {
