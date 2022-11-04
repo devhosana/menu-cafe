@@ -267,7 +267,7 @@ const menu = [
     
       {
         name: "Cerveja média",
-        auxiliaryText: "Sagres ou superbock",
+        auxiliaryText: "Sagres ou Superbock",
         price: 1.20,
       },
     
