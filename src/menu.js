@@ -339,19 +339,19 @@ const menu = [
       {
         name: "Amêndoa amarga",
         auxiliaryText: "Dose",
-        price: 1.20,
+        price: 1.50,
       },
     
       {
         name: "Ginja",
         auxiliaryText: "Dose",
-        price: 1.20,
+        price: 1.50,
       },
     
       {
         name: "Croft",
         auxiliaryText: "Dose",
-        price: 1.20,
+        price: 1.50,
       },
 
       {
