@@ -19,31 +19,31 @@ const menu = [
     
       {
         name: "Pão com ovo",
-        auxiliaryText: "pão com ovo estrelado",
+        auxiliaryText: "Pão com ovo estrelado",
         price: 1.70,
       },
     
       {
         name: "Sandes de queijo ou fiambre",
-        auxiliaryText: "pão com fatia de queijo ou fiambre",
+        auxiliaryText: "Pão com fatia de queijo ou fiambre",
         price: 2.10,
       },
     
       {
         name: "Sandes mista",
-        auxiliaryText: "pão com fatia de queijo e fiambre",
+        auxiliaryText: "Pão com fatia de queijo e fiambre",
         price: 2.40,
       },
     
       {
         name: "Sandes de presunto",
-        auxiliaryText: "pão com fatia de presunto",
+        auxiliaryText: "Pão com fatia de presunto",
         price: 3.20,
       },
     
       {
         name: "Sandes mista de presunto",
-        auxiliaryText: "pão com fatia de presunto e queijo",
+        auxiliaryText: "Pão com fatia de presunto e queijo",
         price: 3.40,
       },
   
