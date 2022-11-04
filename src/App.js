@@ -30,7 +30,7 @@ function App() {
           menu.map((element) => {
 
             return (
-              <div className = "menu__division">
+              <div className = "menu__division" key={Math.random()}>
                 {/* Primeiro renderizar títulos dos sub-menus */}
                 <MenuDescription
                   title={element.menuTitle}
