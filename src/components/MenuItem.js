@@ -16,7 +16,7 @@ function MenuItem(props) {
             <p className={styles.item__name}>
               {props.name}
             </p>
-            <p className={styles.item__description}>
+            <p className={props.auxiliaryText.includes("Fanta") ? styles["item__description--helper"] : styles.item__description}>
               {props.auxiliaryText}
             </p>
           </div>

@@ -226,7 +226,13 @@ const menu = [
 
       {
         name: "Refrigerantes",
-        auxiliaryText: "Coca-Cola/Fanta/Sumol/Guaraná/Seven-up",
+        auxiliaryText: "Coca-Cola/Fanta/Guaraná/Seven-up",
+        price: 1.50,
+      },
+
+      {
+        name: "Sumol",
+        auxiliaryText: "Laranja/ananás",
         price: 1.50,
       },
 

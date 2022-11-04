@@ -55,3 +55,11 @@
   color: #888;
   word-break: break-word;
 }
+
+/* Apenas pra que texto auxiliar de refrigerantes fique "bonitinho" */
+.item__description--helper {
+  margin-top: 0.7rem;
+  font-size: 1.5rem;
+  color: #888;
+  word-break: break-all;
+}
