@@ -453,6 +453,7 @@ const menu = [
 // adicionar preçario de ingredientes extras
 // e consertar número dos itens
 // quem sabe mover titulo do submenu para direita
+// Deixar logo e preçario como fixed e apenas menu como scrollable
 
 function App() {
   return (
