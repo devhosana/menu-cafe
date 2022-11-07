@@ -8,12 +8,10 @@ import SubHeading from './components/SubHeading';
 import MenuDescription from "./components/MenuDescription";
 import MenuItem from './components/MenuItem';
 
-
-// Parei aqui, falta resolver erro de key
-// adicionar preçario de ingredientes extras
+// Não esquecer de preparar códigos QR para impressão
 // Deixar logo e preçario como fixed e apenas menu como scrollable
-// colocar ícones como fundo em cada submenu (hamburger, cerveja, etc)
-// colocar link para hosana.dev no final
+// colocar ícones como fundo em cada submenu (hamburguer, cerveja, etc)
+
 
 function App() {
   return (
