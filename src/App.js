@@ -11,8 +11,6 @@ import MenuItem from './components/MenuItem';
 
 // Parei aqui, falta resolver erro de key
 // adicionar preçario de ingredientes extras
-// e consertar número dos itens
-// quem sabe mover titulo do submenu para direita
 // Deixar logo e preçario como fixed e apenas menu como scrollable
 // colocar ícones como fundo em cada submenu (hamburger, cerveja, etc)
 // colocar link para hosana.dev no final
@@ -58,6 +56,16 @@ function App() {
           })
         }
       </main>
+
+      <footer>
+        <p>Developed by</p>
+        <a
+          href={"https://www.hosana.dev"}
+          className="footer__link"
+          rel="noreferrer"
+          target="_blank"
+        >hosana.dev</a>
+      </footer> 
       
     </div>
   );
