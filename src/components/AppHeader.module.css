@@ -6,4 +6,5 @@
 
 .logo__img {
   width: 55%;
+  transform: rotate(2.25deg);
 }
