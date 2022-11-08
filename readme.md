@@ -2,7 +2,7 @@
 
 **Description**
 
-My very first real world project, QR code coffee shop menu, very simple and yet challeging (as it is my first React project), in the future I plan to add back-end capabilities to make the user edit it himself and maybe integrate it in an ERP specialized for coffee shops.
+My very first real world project, QR code coffee shop menu, simple and yet challeging (as it is my first React project), in the future I plan to add back-end capabilities to make the user edit it by himself and maybe integrate it in an ERP specialized for coffee shops.
 
 **How it works**
 
